@@ -1,0 +1,4 @@
+# %%
+lista = []
+dicionario = {}
+tupla = ()
